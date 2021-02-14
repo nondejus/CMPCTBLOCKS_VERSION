@@ -15,6 +15,10 @@
     5 1 4 C    兌 cash; exchange, barter; weight
     5 4 C 1    品 article, product, commodity
 
+    =======
+    
+    zerox(4)   0x547C72489A7F514C54C1
+    
 
 # BIP 0152
 https://github.com/bitcoin/bips/blob/master/bip-0152.mediawiki
